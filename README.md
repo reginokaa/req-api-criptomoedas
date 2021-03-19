@@ -1,4 +1,4 @@
-### API CRIPTOMOEDAS:
+### API CRIPTOMOEDAS
 
 - Projeto de requisição de dados de API de criptomoedas. 
 
